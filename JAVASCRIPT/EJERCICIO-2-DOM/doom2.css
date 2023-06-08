@@ -1,0 +1,22 @@
+
+.btns{
+    margin: 0 80px;
+    padding: 10px;
+    text-align: center;
+    gap: 80px;
+
+}
+
+.cont{
+    text-align: center;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
